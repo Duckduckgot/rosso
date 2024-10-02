@@ -3,7 +3,7 @@ package main
 import (
    "encoding/json"
    "flag"
-   "github.com/89z/rosso/protobuf"
+   "github.com/Duckduckgot/rosso/protobuf"
    "os"
 )
 
